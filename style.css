@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body
+{
+	font-size: 22px;
+	color: white;
+	background-color: #2A2D43;
+	font-family: 'Work Sans', sans-serif;
+}
+
+
+
+#container
+	{
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#logo
+	{
+		color: #FF84E8;
+		font-size: 36px;
+	}	
+	#menu
+	{
+		text-align: center;
+		background-color: #414361;
+		margin-top: 20px;
+		color: #ffffff;
+		padding: 10px;
+	}
+	
+	.tekst
+	{
+		text-align: left;
+		border-radius: 50px;
+		background-color: #414361;
+		width: 86%;
+		padding-block: 15px;
+		margin-block: 15px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		padding-inline: 15px;
+	}
+	
+	
+	.button
+	{
+		text-align: center;
+		border-radius: 50px;
+		background-color: #414361;
+		width: 25%;
+		padding-block: 15px;
+		margin-block: 15px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	
+	.option
+	{
+		display: inline-block;
+		min-width: 50px;
+		height: 25px;
+		font-size: 18px;
+		padding: 10px;
+		border-inline: 2px solid #fff;
+		transition: ease-in-out 0.05s;
+	}
+	
+	.option:hover
+	{
+		background-color: rgba(127, 44, 203, 0.4);
+		cursor: pointer;
+	}
+	
+	/* Nieodwiedzony link */
+a
+{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+/* link po najechaniu kursorem */
+a:hover
+{
+	color: #FFA9E7;
+}
+
