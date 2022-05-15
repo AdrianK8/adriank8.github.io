@@ -4,7 +4,7 @@ body
 {
 	font-size: 22px;
 	color: white;
-	background-color: #2A2D43;
+	background-color: #802d16;
 	font-family: 'Work Sans', sans-serif;
 }
 
@@ -19,13 +19,13 @@ body
 	
 	#logo
 	{
-		color: #FF84E8;
+		color: #db4109;
 		font-size: 36px;
 	}	
 	#menu
 	{
 		text-align: center;
-		background-color: #414361;
+		background-color: #2a4004;
 		margin-top: 20px;
 		color: #ffffff;
 		padding: 10px;
@@ -35,7 +35,7 @@ body
 	{
 		text-align: left;
 		border-radius: 50px;
-		background-color: #414361;
+		background-color: #406107;
 		width: 86%;
 		padding-block: 15px;
 		margin-block: 15px;
@@ -73,7 +73,7 @@ body
 	
 	.option:hover
 	{
-		background-color: rgba(127, 44, 203, 0.4);
+		background-color: #6b5e14;
 		cursor: pointer;
 	}
 	
@@ -89,7 +89,7 @@ a
 /* link po najechaniu kursorem */
 a:hover
 {
-	color: #FFA9E7;
+	color: #d6b704;
 }
 
  .gradient-button {
